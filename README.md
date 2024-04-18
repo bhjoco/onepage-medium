@@ -1,4 +1,7 @@
 # onepager-medium
+
+Live Preview: https://1lp.hu/medium/
+
 Simple (only HTML &amp; CSS), responsive one-pager for small businesses. Minimalist, clean design for longer content. 
 
 It's possible to display smaller image galleries, lists, tables, but also to insert a YouTube/Vimeo video or a Google/Wufoo form.

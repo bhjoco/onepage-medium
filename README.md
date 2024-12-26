@@ -1,6 +1,6 @@
 # onepager-medium
 
-Live Preview: https://1lp.hu/medium/
+Live Preview: https://op.1lp.org/medium
 
 Simple (only HTML &amp; CSS), responsive one-pager for small businesses. Minimalist, clean design for longer content. 
 
